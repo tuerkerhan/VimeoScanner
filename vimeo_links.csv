@@ -1,0 +1,5 @@
+URL,Vimeo Link,Permission
+http://localhost:8000/test_page.html,https://player.vimeo.com/video/987240751?h=d84ce88b14,True
+http://localhost:8000/test_page.html,https://player.vimeo.com/video/933709897?h=76d89ec160,True
+http://example.com,No Vimeo links found,True
+https://elfsight.com/vimeo-video-gallery-widget/examples/,No Vimeo links found,False
