@@ -1,5 +1,3 @@
-Certainly! Here is the revised `README.md` file with the additional information:
-
 ```markdown
 # Vimeo Link Extractor
 
