@@ -1,4 +1,3 @@
-```markdown
 # Vimeo Link Extractor
 
 Vimeo Link Extractor is a Python application that scans a list of URLs to find Vimeo video links embedded within iframes. The application checks the robots.txt file of each website to ensure crawling permissions before fetching the HTML content. The results, including URLs, Vimeo links, permission status, and response status, are saved to a CSV file. The application also includes a GUI for ease of use.
